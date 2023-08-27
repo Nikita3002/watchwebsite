@@ -1,0 +1,17 @@
+.m{
+background-color:#000033;
+}
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.cards__item {
+    flex-basis: 25%;
+
+    padding-left: 50px;
+    padding-right: 50px;
+}
